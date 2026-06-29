@@ -1,4 +1,23 @@
-package PACKAGE_NAME;
+// Problem: Max Consecutive Ones
+// Pattern: Counter + Tracker (Sliding approach)
+// Difficulty: Easy
+// Beats: 60.85%
+// Independence: CodeIO concept, self coded
+// LeetCode: #485
 
-public class MaxConsecutiveOnes {
+class MaxConsecutiveOnes {
+    public int findMaxConsecutiveOnes(int[] nums) {
+        int count = 0;
+        int maximum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 1)
+                count++;
+            else
+                count = 0;
+            maximum = Math.max(maximum, count);
+        }
+
+        return maximum;
+    }
 }
