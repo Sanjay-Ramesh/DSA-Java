@@ -3,8 +3,8 @@
 > LeetCode solutions in Java — pattern-based approach
 
 ## 📊 Progress
-- Total: 12/50
-- Easy: 10 | Medium: 2
+- Total: 13/50
+- Easy: 9 | Medium: 4
 - LeetCode: sanjayramesh2111
 
 ## 🧠 Patterns
