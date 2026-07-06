@@ -22,5 +22,5 @@
 1. Read problem
 2. Identify pattern
 3. Write pseudocode
-4. Codes
+4. Code the answer for the problem
 5. Commit with pattern in message
