@@ -1,20 +1,19 @@
 # DSA-Java 🧠
-
 > LeetCode solutions in Java — pattern-based approach
 
 ## 📊 Progress
-- Total: 17/50
-- Easy: 10 | Medium: 7
+- Total: 19/50
+- Easy: 10 | Medium: 9
 - LeetCode: sanjayramesh2111
 
 ## 🧠 Patterns
 | Pattern | Folder | Status |
 |---|---|---|
-| Array Manipulation | arrays/ | 🟡 |
-| HashMap | hashmap/ | 🟡 |
+| Array Manipulation | arrays/ | 🟢 |
+| HashMap | hashmap/ | 🟢 |
 | HashSet | hashset/ | 🟡 |
 | Stack | stack/ | 🟡 |
-| Two Pointer | two-pointer/ | 🟡 |
+| Two Pointer | two-pointer/ | 🟢 |
 | Sliding Window | sliding-window/ | 🔴 |
 | Binary Search | binary-search/ | 🔴 |
 
